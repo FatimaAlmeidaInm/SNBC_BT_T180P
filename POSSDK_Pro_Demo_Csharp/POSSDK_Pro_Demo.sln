@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSSDK_Pro_Demo", "POSSDK_Pro_Demo\POSSDK_Pro_Demo.csproj", "{08343097-B037-4268-A191-12519730CD1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08343097-B037-4268-A191-12519730CD1D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{08343097-B037-4268-A191-12519730CD1D}.Debug|Any CPU.Build.0 = Debug|x86
+		{08343097-B037-4268-A191-12519730CD1D}.Debug|x64.ActiveCfg = Debug|x64
+		{08343097-B037-4268-A191-12519730CD1D}.Debug|x64.Build.0 = Debug|x64
+		{08343097-B037-4268-A191-12519730CD1D}.Debug|x86.ActiveCfg = Debug|x86
+		{08343097-B037-4268-A191-12519730CD1D}.Debug|x86.Build.0 = Debug|x86
+		{08343097-B037-4268-A191-12519730CD1D}.Release|Any CPU.ActiveCfg = Release|x86
+		{08343097-B037-4268-A191-12519730CD1D}.Release|Any CPU.Build.0 = Release|x86
+		{08343097-B037-4268-A191-12519730CD1D}.Release|x64.ActiveCfg = Release|x64
+		{08343097-B037-4268-A191-12519730CD1D}.Release|x64.Build.0 = Release|x64
+		{08343097-B037-4268-A191-12519730CD1D}.Release|x86.ActiveCfg = Release|x86
+		{08343097-B037-4268-A191-12519730CD1D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA2DC02-A572-4863-AD1B-4C1D278B004C}
+	EndGlobalSection
+EndGlobal
