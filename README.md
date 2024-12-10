@@ -1,0 +1,2 @@
+# SNBC_BT_T180P
+Printer SNBC BT_T180P
