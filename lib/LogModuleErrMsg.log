@@ -1,0 +1,2 @@
+2024-10-14 10:56:00.994  Errlog:SimpleLogModuleExtract.cpp(424) LOG_MODULE_INIT del_file_size is 0 or not set, use max_file_size
+2024-10-17 12:18:35.024  Errlog:SimpleLogModuleExtract.cpp(424) LOG_MODULE_INIT del_file_size is 0 or not set, use max_file_size

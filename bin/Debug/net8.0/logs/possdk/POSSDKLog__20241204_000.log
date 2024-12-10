@@ -1,0 +1,228 @@
+2024-12-04 15:37:31.236 [INFO]  [POSSDK]  POSSDK Version : V2.0.13.0
+2024-12-04 15:37:31.236 [INFO]  [POSSDK]  [29892] [POSSDK] [EnumDeviceInfo] Into
+2024-12-04 15:37:31.236 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [EnumDeviceInfo] Into
+2024-12-04 15:37:31.236 [INFO]  [POSSDK]  [29892] [Dll_LoadBase] [GetLibFullPath] Into
+2024-12-04 15:37:31.236 [INFO]  [POSSDK]  [29892] [Dll_LoadBase] [GetLibFullPath] Leave, return value = 0
+2024-12-04 15:37:31.312 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [EnumDeviceInfo] Leave, return value = 0
+2024-12-04 15:37:31.312 [INFO]  [POSSDK]  [29892] [POSSDK] [EnumDeviceInfo] Leave, return value = 0
+2024-12-04 15:37:31.313 [INFO]  [POSSDK]  [29892] [POSSDK] [EnumDeviceInfo] Into
+2024-12-04 15:37:31.313 [INFO]  [POSSDK]  [29892] [USBClassPort_WIN32] [EnumDeviceInfo] Into
+2024-12-04 15:37:31.313 [INFO]  [POSSDK]  [29892] [Dll_LoadBase] [GetLibFullPath] Into
+2024-12-04 15:37:31.313 [INFO]  [POSSDK]  [29892] [Dll_LoadBase] [GetLibFullPath] Leave, return value = 0
+2024-12-04 15:37:31.456 [INFO]  [POSSDK]  [29892] [USBClassPort_WIN32] [EnumDeviceInfo] EnumUSBPrinter
+2024-12-04 15:37:31.463 [INFO]  [POSSDK]  [29892] [USBClassPort_WIN32] [EnumDeviceInfo] EnumUSBPrinter num=0, list=
+2024-12-04 15:37:31.463 [INFO]  [POSSDK]  [29892] [USBClassPort_WIN32] [EnumDeviceInfo] Leave, return value = 0
+2024-12-04 15:37:31.463 [INFO]  [POSSDK]  [29892] [POSSDK] [EnumDeviceInfo] Leave, return value = 0
+2024-12-04 15:37:32.664 [INFO]  [POSSDK]  [29892] [POSSDK] [EnumDeviceInfo] Into
+2024-12-04 15:37:32.664 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [EnumDeviceInfo] Into
+2024-12-04 15:37:32.664 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [EnumDeviceInfo] Leave, return value = 0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [POSSDK] [EnumDeviceInfo] Leave, return value = 0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [POSSDK] [EnumDeviceInfo] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBClassPort_WIN32] [EnumDeviceInfo] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBClassPort_WIN32] [EnumDeviceInfo] EnumUSBPrinter
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBClassPort_WIN32] [EnumDeviceInfo] EnumUSBPrinter num=0, list=
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBClassPort_WIN32] [EnumDeviceInfo] Leave, return value = 0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [POSSDK] [EnumDeviceInfo] Leave, return value = 0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [POSSDK] [Init] szDeviceName=POS
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [POSSDK] [OpenUsbApiPort] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [POSSDK] [OpenUsbApiPort] nDeviceId=936
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [OpenPort] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [OpenPort] OpenUSBPrinter deviceID=936
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [OpenPort] OpenUSBPrinter m_Handle=1128
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SetTimeOut] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SetTimeOut] SetUSBTimeouts handle=1128, read_timeout=50(100ms), write_timeout=30(100ms)
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SetTimeOut] SetUSBTimeouts result=1
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SetTimeOut] Leave, return value = 1
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [OpenPort] Leave, return value = 1128
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [POSSDK] [OpenUsbApiPort] Leave, return value = 0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [POSSDK] [Reset] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [BasicSet] [Reset] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=2
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=2
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [BasicSet] [Reset] Leave, return value = 0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [POSSDK] [Reset] Leave, return value = 0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [POSSDK] [MotionUnit] Into
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [BasicSet_POS] [MotionUnit] Into
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [BasicSet_POS] [MotionUnit] nHorizontalMU=203, nVerticalMU=203
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=4
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=4
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [BasicSet_POS] [MotionUnit] Leave, return value = 0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK]  [29892] [POSSDK] [MotionUnit] Leave, return value = 0
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [POSSDK] [SetTextFontType] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] nFontStyle=0
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=3
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=3
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] Leave, return value = 0
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [POSSDK] [SetTextFontType] Leave, return value = 0
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [POSSDK] [PrintTextOut] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] nStartX=0, nStartY=-1, szTextData=TESTE
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=4
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=4
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=5
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=5
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] Leave, return value = 0
+2024-12-04 15:37:37.226 [INFO]  [POSSDK]  [29892] [POSSDK] [PrintTextOut] Leave, return value = 0
+2024-12-04 15:37:37.227 [INFO]  [POSSDK]  [29892] [POSSDK] [SendPortData] Into
+2024-12-04 15:37:37.227 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:37.227 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=3
+2024-12-04 15:37:37.227 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:37.227 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:37.227 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=3
+2024-12-04 15:37:37.227 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.227 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.227 [INFO]  [POSSDK]  [29892] [POSSDK] [SendPortData] Leave, return value = 0
+2024-12-04 15:37:37.231 [INFO]  [POSSDK]  [29892] [POSSDK] [SetTextFontType] Into
+2024-12-04 15:37:37.231 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] Into
+2024-12-04 15:37:37.231 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] nFontStyle=0
+2024-12-04 15:37:37.231 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:37.231 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=3
+2024-12-04 15:37:37.231 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:37.231 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=3
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] Leave, return value = 0
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [POSSDK] [SetTextFontType] Leave, return value = 0
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [POSSDK] [PrintTextOut] Into
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] Into
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] nStartX=0, nStartY=-1, szTextData=
+
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=4
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=4
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=1
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=1
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] Leave, return value = 0
+2024-12-04 15:37:37.232 [INFO]  [POSSDK]  [29892] [POSSDK] [PrintTextOut] Leave, return value = 0
+2024-12-04 15:37:37.233 [INFO]  [POSSDK]  [29892] [POSSDK] [CutPaper] Into
+2024-12-04 15:37:37.233 [INFO]  [POSSDK]  [29892] [BasicSet] [CutPaper] Into
+2024-12-04 15:37:37.233 [INFO]  [POSSDK]  [29892] [BasicSet] [CutPaper] nCutMode=1, nDistance=0
+2024-12-04 15:37:37.233 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:37.233 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=4
+2024-12-04 15:37:37.233 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:37.233 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:37.234 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=4
+2024-12-04 15:37:37.234 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.234 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:37.234 [INFO]  [POSSDK]  [29892] [BasicSet] [CutPaper] Leave, return value = 0
+2024-12-04 15:37:37.234 [INFO]  [POSSDK]  [29892] [POSSDK] [CutPaper] Leave, return value = 0
+2024-12-04 15:37:51.429 [INFO]  [POSSDK]  [29892] [POSSDK] [SetTextFontType] Into
+2024-12-04 15:37:51.429 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] Into
+2024-12-04 15:37:51.429 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] nFontStyle=0
+2024-12-04 15:37:51.429 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:51.429 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=3
+2024-12-04 15:37:51.429 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:51.429 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=3
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] Leave, return value = 0
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [POSSDK] [SetTextFontType] Leave, return value = 0
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [POSSDK] [PrintTextOut] Into
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] Into
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] nStartX=0, nStartY=-1, szTextData=TESTE
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=4
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=4
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:51.430 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=5
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=5
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] Leave, return value = 0
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [POSSDK] [PrintTextOut] Leave, return value = 0
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [POSSDK] [SendPortData] Into
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=3
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:51.431 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=3
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [POSSDK] [SendPortData] Leave, return value = 0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [POSSDK] [SetTextFontType] Into
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] Into
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] nFontStyle=0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=3
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=3
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [TextPrint] [SetTextFontType] Leave, return value = 0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK]  [29892] [POSSDK] [SetTextFontType] Leave, return value = 0
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [POSSDK] [PrintTextOut] Into
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] Into
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] nStartX=0, nStartY=-1, szTextData=
+
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=4
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=4
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=1
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=1
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [TextPrint] [PrintTextOut] Leave, return value = 0
+2024-12-04 15:37:51.433 [INFO]  [POSSDK]  [29892] [POSSDK] [PrintTextOut] Leave, return value = 0
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [POSSDK] [CutPaper] Into
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [BasicSet] [CutPaper] Into
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [BasicSet] [CutPaper] nCutMode=1, nDistance=0
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Into
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] len=4
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Into
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter handle=1128
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] WriteUSBPrinter result=4
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [USBAPIPort_WIN32] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [CommunicateImplBase] [SendData] Leave, return value = 0
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [BasicSet] [CutPaper] Leave, return value = 0
+2024-12-04 15:37:51.434 [INFO]  [POSSDK]  [29892] [POSSDK] [CutPaper] Leave, return value = 0

@@ -1,0 +1,163 @@
+2024-12-04 15:37:26.143 [INFO]  [POSSDK_Pro]  POSSDK_Pro Version : V3.5.2
+2024-12-04 15:37:26.144 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Into
+2024-12-04 15:37:26.144 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] devHandle=0, font=
+2024-12-04 15:37:26.144 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] content=TESTE
+2024-12-04 15:37:26.144 [ERROR]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] devHandle error.
+2024-12-04 15:37:26.144 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Leave, return value = -82
+2024-12-04 15:37:26.144 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [FeedLines] Into
+2024-12-04 15:37:26.144 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [FeedLines] devHandle=0, line=4
+2024-12-04 15:37:26.144 [ERROR]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [FeedLines] devHandle error.
+2024-12-04 15:37:26.144 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [FeedLines] Leave, return value = -82
+2024-12-04 15:37:26.144 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Into
+2024-12-04 15:37:26.145 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] devHandle=0, font=
+2024-12-04 15:37:26.145 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] content=
+
+2024-12-04 15:37:26.145 [ERROR]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] devHandle error.
+2024-12-04 15:37:26.145 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Leave, return value = -82
+2024-12-04 15:37:26.145 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PaperCut] Into
+2024-12-04 15:37:26.145 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PaperCut] devHandle=0, cutMode=0, distance=0
+2024-12-04 15:37:26.145 [ERROR]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PaperCut] devHandle error.
+2024-12-04 15:37:26.145 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PaperCut] Leave, return value = -82
+2024-12-04 15:37:31.131 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [EnumDevice] Into
+2024-12-04 15:37:31.131 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [EnumDevice] portType=1, deviceInfoLen=1024
+2024-12-04 15:37:31.131 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] Into
+2024-12-04 15:37:31.131 [INFO]  [POSSDK_Pro]  [29892] [LoadLibBase] [GetLibFullPath] Into
+2024-12-04 15:37:31.131 [INFO]  [POSSDK_Pro]  [29892] [LoadLibBase] [GetLibFullPath] Leave, return value = 0
+2024-12-04 15:37:31.213 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] POSSDKDLL EnumDeviceInfo+
+2024-12-04 15:37:31.313 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] POSSDKDLL EnumDeviceInfo-, result=0
+2024-12-04 15:37:31.313 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ConvertEnumListFormat] Into
+2024-12-04 15:37:31.313 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ConvertEnumListFormat] Leave, return value = 0
+2024-12-04 15:37:31.313 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] POSSDKDLL EnumDeviceInfo+
+2024-12-04 15:37:31.463 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] POSSDKDLL EnumDeviceInfo-, result=0
+2024-12-04 15:37:31.463 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ConvertEnumListFormat] Into
+2024-12-04 15:37:31.463 [WARN]  [POSSDK_Pro]  [29892] [ModelBase] [ConvertEnumListFormat] deviceInfo no data.
+2024-12-04 15:37:31.463 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ConvertEnumListFormat] Leave, return value = 0
+2024-12-04 15:37:31.463 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] Leave, return value = 1
+2024-12-04 15:37:31.463 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [EnumDevice] Leave, return value = 1
+2024-12-04 15:37:32.664 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [OpenPrinter] Into
+2024-12-04 15:37:32.664 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [OpenPrinter] modelName=BTP-U80 PLUS, portInfo=USBAPI|936
+2024-12-04 15:37:32.664 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [EnumDevice] Into
+2024-12-04 15:37:32.664 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [EnumDevice] portType=1, deviceInfoLen=64
+2024-12-04 15:37:32.664 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] Into
+2024-12-04 15:37:32.664 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] POSSDKDLL EnumDeviceInfo+
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] POSSDKDLL EnumDeviceInfo-, result=0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ConvertEnumListFormat] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ConvertEnumListFormat] Leave, return value = 0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] POSSDKDLL EnumDeviceInfo+
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] POSSDKDLL EnumDeviceInfo-, result=0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ConvertEnumListFormat] Into
+2024-12-04 15:37:32.665 [WARN]  [POSSDK_Pro]  [29892] [ModelBase] [ConvertEnumListFormat] deviceInfo no data.
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ConvertEnumListFormat] Leave, return value = 0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_EnumDevice] Leave, return value = 1
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [EnumDevice] Leave, return value = 1
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelFactory] [CreateModel] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelFactory] [CreateModel] modelName=BTP-U80 PLUS
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelFactory] [CreateModel] Leave, return value = 0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_OpenPrinter] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ParsePortInfo] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ParsePortInfo] portInfo=USBAPI|936
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [ParsePortInfo] Leave, return value = 2
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_OpenPrinter] POSSDKDLL Init+
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_OpenPrinter] POSSDKDLL Init-, result=6689088
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_OpenPrinter] POSSDKDLL AutoQueryStatus+
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_OpenPrinter] POSSDKDLL AutoQueryStatus-, result=0
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_InitPrinter] Into
+2024-12-04 15:37:32.665 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_InitPrinter] POSSDKDLL Reset+
+2024-12-04 15:37:32.666 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_InitPrinter] POSSDKDLL Reset-, result=0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_InitPrinter] POSSDKDLL MotionUnit+
+2024-12-04 15:37:32.666 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_InitPrinter] POSSDKDLL MotionUnit-, result=0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_InitPrinter] Leave, return value = 0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_OpenPrinter] Leave, return value = 0
+2024-12-04 15:37:32.666 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [OpenPrinter] Leave, return value = 0
+2024-12-04 15:37:37.225 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] devHandle=0, font=
+2024-12-04 15:37:37.225 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] content=TESTE
+2024-12-04 15:37:37.225 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_PrintText] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] Into
+2024-12-04 15:37:37.225 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] content=TESTE
+2024-12-04 15:37:37.225 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL SetTextFontType+
+2024-12-04 15:37:37.225 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL SetTextFontType-, result=0
+2024-12-04 15:37:37.225 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL PrintTextOut+
+2024-12-04 15:37:37.226 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL PrintTextOut-, result=0
+2024-12-04 15:37:37.226 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] Leave, return value = 0
+2024-12-04 15:37:37.226 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_PrintText] Leave, return value = 0
+2024-12-04 15:37:37.226 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Leave, return value = 0
+2024-12-04 15:37:37.226 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [FeedLines] Into
+2024-12-04 15:37:37.226 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [FeedLines] devHandle=0, line=4
+2024-12-04 15:37:37.227 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_FeedLine] Into
+2024-12-04 15:37:37.227 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_Feed] Into
+2024-12-04 15:37:37.227 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_Feed] POSSDKDLL SendPortData+
+2024-12-04 15:37:37.227 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_Feed] POSSDKDLL SendPortData-, result=0
+2024-12-04 15:37:37.227 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_Feed] Leave, return value = 0
+2024-12-04 15:37:37.227 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_FeedLine] Leave, return value = 0
+2024-12-04 15:37:37.227 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [FeedLines] Leave, return value = 0
+2024-12-04 15:37:37.231 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Into
+2024-12-04 15:37:37.231 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] devHandle=0, font=
+2024-12-04 15:37:37.231 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] content=
+
+2024-12-04 15:37:37.231 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_PrintText] Into
+2024-12-04 15:37:37.231 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] Into
+2024-12-04 15:37:37.231 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] content=
+
+2024-12-04 15:37:37.231 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL SetTextFontType+
+2024-12-04 15:37:37.232 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL SetTextFontType-, result=0
+2024-12-04 15:37:37.232 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL PrintTextOut+
+2024-12-04 15:37:37.233 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL PrintTextOut-, result=0
+2024-12-04 15:37:37.233 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] Leave, return value = 0
+2024-12-04 15:37:37.233 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_PrintText] Leave, return value = 0
+2024-12-04 15:37:37.233 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Leave, return value = 0
+2024-12-04 15:37:37.233 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PaperCut] Into
+2024-12-04 15:37:37.233 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PaperCut] devHandle=0, cutMode=0, distance=0
+2024-12-04 15:37:37.233 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_CutPaper] Into
+2024-12-04 15:37:37.233 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_CutPaper] Into
+2024-12-04 15:37:37.233 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_CutPaper] POSSDKDLL CutPaper+
+2024-12-04 15:37:37.234 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_CutPaper] POSSDKDLL CutPaper-, result=0
+2024-12-04 15:37:37.234 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_CutPaper] Leave, return value = 0
+2024-12-04 15:37:37.234 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_CutPaper] Leave, return value = 0
+2024-12-04 15:37:37.234 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PaperCut] Leave, return value = 0
+2024-12-04 15:37:51.429 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Into
+2024-12-04 15:37:51.429 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] devHandle=0, font=
+2024-12-04 15:37:51.429 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] content=TESTE
+2024-12-04 15:37:51.429 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_PrintText] Into
+2024-12-04 15:37:51.429 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] Into
+2024-12-04 15:37:51.429 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] content=TESTE
+2024-12-04 15:37:51.429 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL SetTextFontType+
+2024-12-04 15:37:51.430 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL SetTextFontType-, result=0
+2024-12-04 15:37:51.430 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL PrintTextOut+
+2024-12-04 15:37:51.431 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL PrintTextOut-, result=0
+2024-12-04 15:37:51.431 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] Leave, return value = 0
+2024-12-04 15:37:51.431 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_PrintText] Leave, return value = 0
+2024-12-04 15:37:51.431 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Leave, return value = 0
+2024-12-04 15:37:51.431 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [FeedLines] Into
+2024-12-04 15:37:51.431 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [FeedLines] devHandle=0, line=4
+2024-12-04 15:37:51.431 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_FeedLine] Into
+2024-12-04 15:37:51.431 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_Feed] Into
+2024-12-04 15:37:51.431 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_Feed] POSSDKDLL SendPortData+
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_Feed] POSSDKDLL SendPortData-, result=0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_Feed] Leave, return value = 0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_FeedLine] Leave, return value = 0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [FeedLines] Leave, return value = 0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Into
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] devHandle=0, font=
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] content=
+
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_PrintText] Into
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] Into
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] content=
+
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL SetTextFontType+
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL SetTextFontType-, result=0
+2024-12-04 15:37:51.432 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL PrintTextOut+
+2024-12-04 15:37:51.433 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] POSSDKDLL PrintTextOut-, result=0
+2024-12-04 15:37:51.433 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_PrintText] Leave, return value = 0
+2024-12-04 15:37:51.433 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_PrintText] Leave, return value = 0
+2024-12-04 15:37:51.433 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PrintText] Leave, return value = 0
+2024-12-04 15:37:51.434 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PaperCut] Into
+2024-12-04 15:37:51.434 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PaperCut] devHandle=0, cutMode=0, distance=0
+2024-12-04 15:37:51.434 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_CutPaper] Into
+2024-12-04 15:37:51.434 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_CutPaper] Into
+2024-12-04 15:37:51.434 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_CutPaper] POSSDKDLL CutPaper+
+2024-12-04 15:37:51.434 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_CutPaper] POSSDKDLL CutPaper-, result=0
+2024-12-04 15:37:51.434 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [inner_CutPaper] Leave, return value = 0
+2024-12-04 15:37:51.434 [INFO]  [POSSDK_Pro]  [29892] [ModelBase] [Model_CutPaper] Leave, return value = 0
+2024-12-04 15:37:51.434 [INFO]  [POSSDK_Pro]  [29892] [POSSDK_Pro] [PaperCut] Leave, return value = 0

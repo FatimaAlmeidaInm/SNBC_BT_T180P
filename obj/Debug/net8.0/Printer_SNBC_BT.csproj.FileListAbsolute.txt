@@ -1,0 +1,14 @@
+C:\Dev\Printer_SNBC_BT\bin\Debug\net8.0\Printer_SNBC_BT.exe
+C:\Dev\Printer_SNBC_BT\bin\Debug\net8.0\Printer_SNBC_BT.deps.json
+C:\Dev\Printer_SNBC_BT\bin\Debug\net8.0\Printer_SNBC_BT.runtimeconfig.json
+C:\Dev\Printer_SNBC_BT\bin\Debug\net8.0\Printer_SNBC_BT.dll
+C:\Dev\Printer_SNBC_BT\bin\Debug\net8.0\Printer_SNBC_BT.pdb
+C:\Dev\Printer_SNBC_BT\obj\Debug\net8.0\Printer_SNBC_BT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Printer_SNBC_BT\obj\Debug\net8.0\Printer_SNBC_BT.AssemblyInfoInputs.cache
+C:\Dev\Printer_SNBC_BT\obj\Debug\net8.0\Printer_SNBC_BT.AssemblyInfo.cs
+C:\Dev\Printer_SNBC_BT\obj\Debug\net8.0\Printer_SNBC_BT.csproj.CoreCompileInputs.cache
+C:\Dev\Printer_SNBC_BT\obj\Debug\net8.0\Printer_SNBC_BT.dll
+C:\Dev\Printer_SNBC_BT\obj\Debug\net8.0\refint\Printer_SNBC_BT.dll
+C:\Dev\Printer_SNBC_BT\obj\Debug\net8.0\Printer_SNBC_BT.pdb
+C:\Dev\Printer_SNBC_BT\obj\Debug\net8.0\Printer_SNBC_BT.genruntimeconfig.cache
+C:\Dev\Printer_SNBC_BT\obj\Debug\net8.0\ref\Printer_SNBC_BT.dll
